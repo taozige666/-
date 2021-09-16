@@ -1,7 +1,7 @@
 # 基于迁移学习的高效单目深度估计
-## 下载模型参数
+## 下载
 * 可以通过[此链接](https://drive.google.com/drive/folders/1nYyaQXOBjNdUJDsmJpcRpu6oE55aQoLA?usp=sharing)来下载模型参数
-* You can download the predicted depths in 16-bit format for NYU-Depth-v2 official test set and KITTI Eigen split test set [here](https://drive.google.com/drive/folders/1b3nfm8lqrvUjtYGmsqA5gptNQ8vPlzzS?usp=sharing)
+* 可以通过[此链接](https://drive.google.com/drive/folders/1b3nfm8lqrvUjtYGmsqA5gptNQ8vPlzzS?usp=sharing)来下载模型在nyu depth v2数据集上的预测结果
 
 ## 部分代码参考来源
 * [High Quality Monocular Depth Estimation via Transfer Learning](https://github.com/ialhashim/DenseDepth)
